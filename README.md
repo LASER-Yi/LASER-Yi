@@ -5,8 +5,8 @@
 
 #### Game-Dev
 * [Dxr](https://github.com/NVIDIAGameWorks/DxrTutorials)
-* [PICO-8](https://github.com/pico-8/awesome-PICO-8)
-* C++14 and C++17
+* [Gameplay Ability System](https://github.com/tranek/GASDocumentation)
+* C++17 and C++20
 
 #### Frontend
 * [Three.js](https://github.com/mrdoob/three.js)
