@@ -3,14 +3,19 @@
 
 ### Learning
 
+#### Languages
+
+* C++20
+* Rust
+
 #### Game-Dev
+
 * [Dxr](https://github.com/NVIDIAGameWorks/DxrTutorials)
-* [Gameplay Ability System](https://github.com/tranek/GASDocumentation)
-* C++17 and C++20
+* Motion Matching
 
 #### Frontend
-* [Three.js](https://github.com/mrdoob/three.js)
-* [React-Spring](https://github.com/pmndrs/react-spring)
+
+* [Next.JS](https://github.com/vercel/next.js)
 * [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
 
